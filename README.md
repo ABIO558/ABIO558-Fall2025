@@ -3,7 +3,7 @@ Code and data for ABIO558, Fall 2025 at UAlbany
 
 | Date               | Topic Code & Description                                | Assignment due | File |
 |--------------------|---------------------------------------------------------|-------------|------|
-| Wed., Oct. 1, 2025 | 2.1: Introduction to Python and Jupyter                 |Install anaconda, Python, and GitHub desktop           |      |
+| Wed., Oct. 1, 2025 | 2.1: Introduction to Python and Jupyter                 |Install anaconda, Python, and GitHub desktop. Make a GitHub account           |      |
 | Mon., Oct. 6, 2025 | 2.2: Functions, errors and filepaths                    |             |      |
 | Wed., Oct. 8, 2025 | 2.3: Version control with git, data repositories        |Join GitHub and class Org.             |      |
 | Mon., Oct. 13, 2025| **NO CLASS – FALL BREAK**                               |             |      |
