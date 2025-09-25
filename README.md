@@ -5,7 +5,7 @@ Code and data for ABIO558, Fall 2025 at UAlbany
 |--------------------|---------------------------------------------------------|-------------|------|
 | Wed., Oct. 1, 2025 | 2.1: Introduction to Python and Jupyter                 |Install anaconda, Python, and GitHub desktop. Make a GitHub account           |      |
 | Mon., Oct. 6, 2025 | 2.2: Functions, errors and filepaths                    |             |      |
-| Wed., Oct. 8, 2025 | 2.3: Version control with git, data repositories        |Join GitHub and class Org.             |      |
+| Wed., Oct. 8, 2025 | 2.3 Reading data and querying DataFrames (asynchronous)        |           |      |
 | Mon., Oct. 13, 2025| **NO CLASS – FALL BREAK**                               |             |      |
 | Wed., Oct. 15, 2025| 2.4: Loading, indexing and analyzing data               |             |      |
 | Mon., Oct. 20, 2025| 2.5: Visualizing data                                   |             |      |
