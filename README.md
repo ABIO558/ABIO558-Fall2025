@@ -8,10 +8,10 @@ Code and data for ABIO558, Fall 2025 at UAlbany
 | Wed., Oct. 8, 2025 | 2.3 GitHub and version control (Asynchronous)           | Install GitHub desktop. Make a GitHub account            |      |
 | Mon., Oct. 13, 2025| **NO CLASS – FALL BREAK**                               |             |      |
 | Wed., Oct. 15, 2025| 2.4: Loading, indexing and analyzing data: Pandas       |             |      |
-| Mon., Oct. 20, 2025| 2.5: Exploratory analysis and descriptive statistics          |             |      |
-| Wed., Oct. 22, 2025| 2.6: Image analysis in Python pt. 1                    |             |      |
-| Mon., Oct. 27, 2025| 2.7: Image analysis in Python pt. 2                    |Project idea proposal   |      |
-| Wed., Oct. 29, 2025| 2.8: Lists, loops, and conditionals                                 |             |      |
+| Mon., Oct. 20, 2025| 2.5: Data analysis & modeling pt. 1                     |            |      |
+| Wed., Oct. 22, 2025| 2.6: Data analysis & modeling pt. 2                     |             |      |
+| Mon., Oct. 27, 2025| 2.7: Image analysis in Python pt. 1                     |Project idea proposal   |      |
+| Wed., Oct. 29, 2025| 2.8: Image analysis in Python pt. 2                     |             |      |
 | Mon., Nov. 3, 2025 | 2.9: Analysis pipelines: putting it all together        |             |      |
 | Wed., Nov. 5, 2025 | 2.10: Responsible use of AI tools for coding            |Project check-in |      |
 | Mon., Nov. 10, 2025| 2.11: Figure generation and presenting your findings    |             |      |
