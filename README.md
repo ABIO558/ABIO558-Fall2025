@@ -10,8 +10,8 @@ Code and data for ABIO558, Fall 2025 at UAlbany
 | Wed., Oct. 15, 2025| 2.4: Loading, indexing and analyzing data               |             |
 | Mon., Oct. 20, 2025| 2.5: Data analysis & modeling pt. 1                     |             |
 | Wed., Oct. 22, 2025| 2.6: Data analysis & modeling pt. 2                     |             |
-| Mon., Oct. 27, 2025| 2.7: Analyzing big datasets and sequencing data         |Project idea proposal|
-| Wed., Oct. 29, 2025| 2.8: Time series analysis                               |             |
+| Mon., Oct. 27, 2025| 2.7: Models & Machine learning                          |Project idea proposal|
+| Wed., Oct. 29, 2025| 2.8: Time series and sequencing data                    |             |
 | Mon., Nov. 3, 2025 | 2.9: Image analysis in Python pt. 1                     |             |
 | Wed., Nov. 5, 2025 | 2.10: Image analysis in Python pt. 2                    |Project check-in|
 | Mon., Nov. 10, 2025| 2.11: Analysis pipelines & AI assisted coding           |             |
